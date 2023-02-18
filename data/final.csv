@@ -1,0 +1,1261 @@
+Type,Cat,Email_count,Price
+Department,1 - Ain,10390,259.75
+Department,2 - Aisne,6325,189.75
+Department,3 - Allier,4777,214.97
+Department,4 - Alpes-de-Haute-Provence,3657,164.57
+Department,5 - Hautes-Alpes,4131,185.90
+Department,6 - Alpes-Maritimes,23879,596.98
+Department,7 - Ardèche,6025,180.75
+Department,8 - Ardennes,3333,149.99
+Department,9 - Ariège,2803,126.14
+Department,10 - Aube,4716,212.22
+Department,11 - Aude,7093,212.79
+Department,12 - Aveyron,5613,168.39
+Department,13 - Bouches-du-Rhône,34134,682.68
+Department,14 - Calvados,11497,287.43
+Department,15 - Cantal,2478,111.51
+Department,16 - Charente,5424,162.72
+Department,17 - Charente-Maritime,12529,313.23
+Department,18 - Cher,4528,203.76
+Department,19 - Corrèze,4300,193.50
+Department,20 - Corse,6694,200.82
+Department,21 - Côte-d'Or,9703,291.09
+Department,22 - Côtes-d'Armor,9298,278.94
+Department,23 - Creuse,1789,80.51
+Department,24 - Dordogne,8445,253.35
+Department,25 - Doubs,8220,246.60
+Department,26 - Drôme,9553,286.59
+Department,27 - Eure,7697,230.91
+Department,28 - Eure-et-Loir,5817,174.51
+Department,29 - Finistère,14113,352.83
+Department,30 - Gard,13940,348.50
+Department,31 - Haute-Garonne,24397,609.93
+Department,32 - Gers,4210,189.45
+Department,33 - Gironde,29400,588.00
+Department,34 - Hérault,19151,478.78
+Department,35 - Ille-et-Vilaine,17325,433.13
+Department,36 - Indre,3065,137.93
+Department,37 - Indre-et-Loire,9823,294.69
+Department,38 - Isère,19353,483.83
+Department,39 - Jura,4347,195.62
+Department,40 - Landes,8030,240.90
+Department,41 - Loir-et-Cher,5201,156.03
+Department,42 - Loire,11852,296.30
+Department,43 - Haute-Loire,3992,179.64
+Department,44 - Loire-Atlantique,23441,586.03
+Department,45 - Loiret,8883,266.49
+Department,46 - Lot,3806,171.27
+Department,47 - Lot-et-Garonne,6341,190.23
+Department,48 - Lozère,1701,76.55
+Department,49 - Maine-et-Loire,11934,298.35
+Department,50 - Manche,7051,211.53
+Department,51 - Marne,8613,258.39
+Department,52 - Haute-Marne,2571,115.70
+Department,53 - Mayenne,4638,208.71
+Department,54 - Meurthe-et-Moselle,9187,275.61
+Department,55 - Meuse,2562,115.29
+Department,56 - Morbihan,12432,310.80
+Department,57 - Moselle,11578,289.45
+Department,58 - Nièvre,3192,143.64
+Department,59 - Nord,27679,553.58
+Department,60 - Oise,9211,276.33
+Department,61 - Orne,3935,177.08
+Department,62 - Pas-de-Calais,12551,313.78
+Department,63 - Puy-de-Dôme,10407,260.18
+Department,64 - Pyrénées-Atlantiques,13154,328.85
+Department,65 - Hautes-Pyrénées,4428,199.26
+Department,66 - Pyrénées-Orientales,8687,260.61
+Department,67 - Bas-Rhin,17898,447.45
+Department,68 - Haut-Rhin,10820,270.50
+Department,69 - Rhône,35181,703.62
+Department,70 - Haute-Saône,3333,149.99
+Department,71 - Saône-et-Loire,8676,260.28
+Department,72 - Sarthe,5563,166.89
+Department,73 - Savoie,9906,297.18
+Department,74 - Haute-Savoie,15721,393.03
+Department,75 - Paris,55103,826.55
+Department,76 - Seine-Maritime,12739,318.48
+Department,77 - Seine-et-Marne,15074,376.85
+Department,78 - Yvelines,16033,400.83
+Department,79 - Deux-Sèvres,5054,151.62
+Department,80 - Somme,6969,209.07
+Department,81 - Tarn,6778,203.34
+Department,82 - Tarn-et-Garonne,4262,191.79
+Department,83 - Var,18396,459.90
+Department,84 - Vaucluse,11559,288.98
+Department,85 - Vendée,11333,283.33
+Department,86 - Vienne,5666,169.98
+Department,87 - Haute-Vienne,4954,222.93
+Department,88 - Vosges,6054,181.62
+Department,89 - Yonne,4987,224.42
+Department,90 - Territoire de Belfort,1773,79.79
+Department,91 - Essonne,13262,331.55
+Department,92 - Hauts-de-Seine,21616,540.40
+Department,93 - Seine-Saint-Denis,12792,319.80
+Department,94 - Val-de-Marne,13210,330.25
+Department,95 - Val-d'Oise,11211,280.28
+Department,971 - Guadeloupe DOM,4849,218.21
+Department,972 - Martinique DOM,4218,189.81
+Department,973 - Guyane DOM,1494,67.23
+Department,974 - La Réunion DOM,7596,227.88
+Department,975 - St-Pierre-et-Miquelon DOM,32,29.00
+Department,976 - Mayotte DOM,389,46.68
+Region,Auvergne-Rhône-Alpes,139961,2099.42
+Region,Auvergne,21656,541.40
+Region,Rhône-Alpes,118305,1774.58
+Region,Bourgogne-Franche-Comté,44479,889.58
+Region,Bourgogne,26806,536.12
+Region,Franche-Comté,17673,441.83
+Region,Bretagne,53418,801.27
+Region,Centre-Val de Loire,37317,746.34
+Region,Corse,6694,200.82
+Region,Dom,18617,465.43
+Region,Grand-Est,77556,1163.34
+Region,Alsace,28913,578.26
+Region,Champagne-Ardenne,19261,481.53
+Region,Lorraine,29382,587.64
+Region,Hauts-de-France,62735,941.03
+Region,Nord-Pas-de-Calais,40230,804.60
+Region,Picardie,22505,562.63
+Region,Île-de-France,160636,2409.54
+Region,Normandie,44043,880.86
+Region,Basse Normandie,22491,562.28
+Region,Haute Normandie,21552,538.80
+Region,Nouvelle-Aquitaine,106356,1595.34
+Region,Aquitaine,65860,987.90
+Region,Limousin,11153,278.83
+Region,Poitou-Charentes,29343,586.86
+Region,Occitanie,107547,1613.21
+Region,Languedoc-Roussillon,50839,762.59
+Region,Midi-Pyrénées,56708,850.62
+Region,Pays-de-la-Loire,57013,855.20
+Region,Provence-Alpes-Côte d'azur,95880,1438.20
+Activity,"Abonnements de journaux, de presse, de magazines",24,29.00
+Activity,Abris pour piscines,22,29.00
+Activity,Accueil de jeunes enfants,75,29.00
+Activity,Accueil des enfants en difficulté,16,0
+Activity,"Acier, Sidérurgie",288,34.56
+Activity,Action sociale,369,44.28
+Activity,Activités artistiques,4251,191.30
+Activity,Activités des infirmiers et des sages-femmes,8277,248.31
+Activity,Activités des sièges sociaux,1311,59.00
+Activity,Activités juridiques,2621,117.95
+Activity,Activités liées aux systèmes de sécurité,78,29.00
+Activity,Acupuncteurs,60,29.00
+Activity,"Adaptations, aménagements pour automobiles et véhicules industriels",88,29.00
+Activity,"Aéronautique (Industrie, compagnies, transports aériens, aéroports)",937,93.70
+Activity,"Aéroports, services aéroportuaires",77,29.00
+Activity,Affaires sanitaires et sociales,268,32.16
+Activity,"Affaires sanitaires, sociales (services publics)",255,30.60
+Activity,"Affrètement, organisation des transports et logistique",953,95.30
+Activity,Agencement d'appartements,209,29.00
+Activity,Agencement de bureaux,154,29.00
+Activity,"Agencement de cafés, hôtels et restaurants",77,29.00
+Activity,"Agencement de lieux de vente, de magasins",703,70.30
+Activity,Agences d'intérim,4016,180.72
+Activity,Agences de communication,13286,332.15
+Activity,Agences de presse,146,29.00
+Activity,"Agences de publicité (conseil, marketing, communication)",2659,119.66
+Activity,Agences de voyages,2849,128.21
+Activity,Agences immobilières (hors marchand de biens),23644,591.10
+Activity,"Agences immobilières, marchands de biens et mandataires",40881,817.62
+Activity,Agents artistiques,73,29.00
+Activity,Agents commerciaux,548,54.80
+Activity,Agents et gestionnaires immobiliers,12,0
+Activity,"Agents, concessionnaires de motos, de scooters",775,77.50
+Activity,"Agents, concessionnaires, succursales de camions",18,29.00
+Activity,Agriculteurs: Eleveurs (Toutes espèces),4591,206.60
+Activity,Agriculteurs: Producteurs (Cultures de Céréales),1673,75.29
+Activity,Agriculteurs: Producteurs (Cultures de Fruits),3236,145.62
+Activity,Agriculteurs: Producteurs (Toutes cultures),7548,226.44
+Activity,Agriculture (Agriculteurs et activités annexes),25609,512.18
+Activity,"Agriculture, équipement, transport (services publics)",59,29.00
+Activity,Agro-alimentaire,5079,152.37
+Activity,"Aide à la personne, aide à domicile",4922,221.49
+Activity,"Alarmes, surveillance : (vente, installation)",1164,52.38
+Activity,Alimentation animale (Vente et Fabrication),298,35.76
+Activity,Alimentation générale,4246,191.07
+Activity,Alimentation-bétail,904,90.40
+Activity,Aluminium (tous secteurs),366,43.92
+Activity,Ambulances,1316,59.22
+Activity,Aménagement de combles,287,34.44
+Activity,Animaleries,1407,63.32
+Activity,Animations artistiques et DJ,24,29.00
+Activity,"Antiquaires, Experts en antiquités",22,29.00
+Activity,Apiculture,75,29.00
+Activity,"Arboriculture, production de fruits",16,0
+Activity,Architectes,288,34.56
+Activity,Architectes d’intérieur et Décorateurs,369,44.28
+Activity,Architectes navals,4251,191.30
+Activity,Aromathérapie,8277,248.31
+Activity,Articles de fêtes,1311,59.00
+Activity,Articles de sport (Détail),2621,117.95
+Activity,Articles funéraires,78,29.00
+Activity,Articles médicaux orthopédique (Détail),60,29.00
+Activity,Artisanat d'art,88,29.00
+Activity,Artisans (Secteurs de l'alimentation),937,93.70
+Activity,Artisans (secteurs des services),77,29.00
+Activity,Artisans (secteurs du bâtiment & BTP),268,32.16
+Activity,Artisans du bâtiment (ciblage spécifique 220322),255,30.60
+Activity,Artistes peintres et illustrateurs,953,95.30
+Activity,Arts de la table,209,29.00
+Activity,Arts du spectacle vivant,154,29.00
+Activity,"Ascenseurs (fabrication, installation, maintenance)",77,29.00
+Activity,Assainissement,703,70.30
+Activity,Associations,4016,180.72
+Activity,"Associations (Tous types : éducative, culturelle, loisirs, humanitaire, tutélaire, civique et sociale, religieuse, consommateurs, environnement)",13286,332.15
+Activity,"Associations culturelles, de loisirs",146,29.00
+Activity,"Associations humanitaires, d'entraide, sociales",2659,119.66
+Activity,Assurances (Agents généraux),2849,128.21
+Activity,Assurances (Courtiers),23644,591.10
+Activity,Assurances (sociétés),40881,817.62
+Activity,Assurances (Tous secteurs),73,29.00
+Activity,Audioprothésistes,548,54.80
+Activity,Auto-écoles,12,0
+Activity,Automobile (Tous secteurs),775,77.50
+Activity,Automobile : (vente neufs et occasions) distributeurs et concessionnaires,18,29.00
+Activity,"Automobile : Agents, concessionnaires, distributeurs d'automobiles",4591,206.60
+Activity,"Automobile : Carrossiers, peinture",1673,75.29
+Activity,Automobile : Contrôle technique,3236,145.62
+Activity,Automobile : Equipements,7548,226.44
+Activity,Automobile : Equipements (gros),25609,512.18
+Activity,Automobile : Garages (entretien et réparation),59,29.00
+Activity,Automobile : pièces et accessoires,5079,152.37
+Activity,Automobile : Station de lavage,4922,221.49
+Activity,Automobiles (Location),1164,52.38
+Activity,Automobiles d'occasion (commerce de voitures et de véhicules automobiles légers),298,35.76
+Activity,Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents,4246,191.07
+Activity,Autres commerces de détail alimentaires en magasin spécialisé,904,90.40
+Activity,Autres commerces de détail spécialisés divers,366,43.92
+Activity,"Autres intermédiaires du commerce en denrées, boissons et tabac",1316,59.22
+Activity,Autres travaux d'installation n.c.a.,287,34.44
+Activity,Autres travaux spécialisés de construction,1407,63.32
+Activity,Avocats,24,29.00
+Activity,Avocats (ciblage spécifique 1),22,29.00
+Activity,Avocats (ciblage spécifique 2),75,29.00
+Activity,Avocats (ciblage spécifique 3),16,0
+Activity,"Avocats spécialistes en droit commercial, des affaires et de la concurrence",288,34.56
+Activity,Avocats spécialistes en droit du travail,369,44.28
+Activity,Avocats spécialistes en droit immobilier,4251,191.30
+Activity,Banques,8277,248.31
+Activity,Barbiers,1311,59.00
+Activity,Bases de loisirs,2621,117.95
+Activity,Bateaux (Ventes et réparation),78,29.00
+Activity,Bateaux-écoles,60,29.00
+Activity,"Bibliothèques, médiathèques",88,29.00
+Activity,Bijouteries (détail),937,93.70
+Activity,Bio (Tous secteurs),77,29.00
+Activity,"Blanchisseries, teinturiers, pressings",268,32.16
+Activity,Bois de chauffage,255,30.60
+Activity,Boucheries et charcuteries,953,95.30
+Activity,Boulangeries et Pâtisseries,209,29.00
+Activity,Bowlings,154,29.00
+Activity,BtoB (Groupe d'activités cibles spécifique) - Ne pas sélectionner,77,29.00
+Activity,Bureaux d'études,703,70.30
+Activity,Bureaux de gestion de placement,4016,180.72
+Activity,Bureaux de médecins,13286,332.15
+Activity,Bureaux de tabac,146,29.00
+Activity,"Câbles (Fabrication, gros, vente)",2659,119.66
+Activity,"Câbles, fils électriques (fabrication, gros)",2849,128.21
+Activity,Cadeaux d'entreprises,23644,591.10
+Activity,Cadeaux et Souvenirs,40881,817.62
+Activity,Cafés et bars,73,29.00
+Activity,"Cafés, Bars et Tabacs",548,54.80
+Activity,Cafétérias et autres libres-services,12,0
+Activity,"Caisses enregistreuses, terminaux de paiement",775,77.50
+Activity,"Camions, Poids-lourds et Remorques (Toutes activités spécialisées)",18,29.00
+Activity,Camping Car (fabrication et vente),4591,206.60
+Activity,Campings,1673,75.29
+Activity,"Caoutchouc (matières, fabrication, production)",3236,145.62
+Activity,"Carrelages, dallages (fabrication, gros)",7548,226.44
+Activity,Cartonnage,25609,512.18
+Activity,Casinos,59,29.00
+Activity,Casses automobiles,5079,152.37
+Activity,Cavistes,4922,221.49
+Activity,Centrales d'achats,1164,52.38
+Activity,Centrales d'achats non alimentaires,298,35.76
+Activity,"Centre de réadaptation, de convalescence",4246,191.07
+Activity,Centre Hospitalier (Médecins et services),904,90.40
+Activity,Centre médico-social,366,43.92
+Activity,Centres autos,1316,59.22
+Activity,Centres commerciaux,287,34.44
+Activity,"Centres commerciaux, supermarchés, hypermarchés et grands magasins",1407,63.32
+Activity,Centres d'appels,181,29.00
+Activity,"Centres d'épilation, Epilation à domicile",59,29.00
+Activity,"Centres de fitness, clubs de fitness",26,29.00
+Activity,Centres de formation,8980,269.40
+Activity,Centres de loisirs pour enfants,281,33.72
+Activity,Centres équestres,2047,92.12
+Activity,Centres médico-sociaux,336,40.32
+Activity,Chambres d'hôtes et Gîtes,10178,254.45
+Activity,Chapeliers (chapeaux),123,29.00
+Activity,Charpentiers,3595,161.78
+Activity,"Chasse, piégeage et services annexes",59,29.00
+Activity,"Chaudières (fabrication, vente et entretien)",53,29.00
+Activity,Chauffagistes,5750,172.50
+Activity,"Cheminées, Poêles et accessoires",1141,51.35
+Activity,Chiropracteurs,301,36.12
+Activity,Chirurgiens,1581,71.15
+Activity,"Chocolateries, confiseries (fabrication, gros)",281,33.72
+Activity,"Chocolatiers, confiseurs (chocolateries, confiseries)",755,75.50
+Activity,Cigarettes électroniques (Articles pour vapoteurs),158,29.00
+Activity,"Cinéma (production, réalisation, distribution)",674,67.40
+Activity,Cliniques,312,37.44
+Activity,Cliniques et Hôpitaux,571,57.10
+Activity,Cloisons,272,32.64
+Activity,"Clôtures, barrières",633,63.30
+Activity,Clubs d'athlétisme,44,29.00
+Activity,Clubs de cyclisme,76,29.00
+Activity,"Clubs de cyclisme, athlétisme, natation, sports nautiques et plongée",875,87.50
+Activity,Clubs de football,122,29.00
+Activity,"Clubs de forme, salles de sport et musculation",1075,48.38
+Activity,Clubs de judo,135,29.00
+Activity,Clubs de karaté,73,29.00
+Activity,Clubs de natation,70,29.00
+Activity,Clubs de sports (toutes activités),6991,209.73
+Activity,Clubs de sports nautiques,651,65.10
+Activity,Clubs seniors,1,0
+Activity,"Clubs, cours de jeux de société, de bridge, d'échecs",97,29.00
+Activity,Coaching,299,35.88
+Activity,Coiffeurs à domicile,2203,99.14
+Activity,Coiffeurs hommes,10,29.00
+Activity,"Coiffeurs, salons de coiffure",8517,255.51
+Activity,Coiffure africaine,22,29.00
+Activity,Collèges privés,562,56.20
+Activity,"Commerçants, (commerces de détail tous secteurs)",26001,520.02
+Activity,Commerce de détail d'autres équipements du foyer,721,72.10
+Activity,Commerce de détail de boissons en magasin spécialisé,605,60.50
+Activity,Commerce de détail de fruits et légumes,178,0
+Activity,Commerce de détail de journaux et papeterie en magasin spécialisé,604,0
+Activity,Commerce de détail de matériels audio et vidéo en magasin spécialisé,177,29.00
+Activity,Commerce de détail de produits à base de tabac en magasin spécialisé,536,53.60
+Activity,Commerce de détail de produits à base de tabac en magasin spécialisé (Bureaux de tabac),536,53.60
+Activity,Commerce de détail de produits surgelés,74,29.00
+Activity,Commerce de détail de quincaillerie,1389,62.51
+Activity,Commerce de détail de vêtements et d'habillement,5314,159.42
+Activity,"Commerce de détail de vidéo, son, informatique, électroménager",3602,162.09
+Activity,Commerce de détail sur éventaires et marchés,779,77.90
+Activity,Commerce de fruits et légumes (Détail et Gros),1381,62.15
+Activity,Commerce de gros (commerce interentreprises) de bois et de matériaux de construction,1392,62.64
+Activity,Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers,2286,102.87
+Activity,Commerce de gros (commerce interentreprises) de matériel électrique,758,75.80
+Activity,Commerce de gros d'autres machines et équipements de bureau,454,54.48
+Activity,Commerce de gros de mobilier de bureau (commerce interentreprises),90,0
+Activity,Commerce de gros de produits chimiques,458,54.96
+Activity,"Commerce de véhicules automobiles, Vendeurs de voitures, neuves et d'occasion",66,0
+Activity,"Commerce de voitures et de véhicules automobiles légers (Agents, concessionnaires, distributeurs d'automobiles)",4073,183.29
+Activity,Commerces d'outillage et bricolage,1018,45.81
+Activity,Commerces de détail alimentaires,6317,189.51
+Activity,Commerces de gros (tous secteurs),28661,573.22
+Activity,Commerces de gros de produits alimentaires,6315,189.45
+Activity,Commerces de moquettes et revêtements de sols et murs,52,29.00
+Activity,"Communautés de communes, d'agglomérations, urbaines",546,54.60
+Activity,Communication événementielle,72,29.00
+Activity,Comptables et experts comptables,6727,201.81
+Activity,Conseil en relations publiques et communication,254,30.48
+Activity,Conseil en systèmes informatiques,2434,109.53
+Activity,Conseil pour les affaires et autres conseils de gestion,5524,165.72
+Activity,"Conseils conjugaux, familiaux",592,59.20
+Activity,Conseils d'investissement,25,0
+Activity,Conseils en commerce extérieur,135,29.00
+Activity,conseils en communication d'entreprises,2,0
+Activity,Conseils en création d'entreprises,5,29.00
+Activity,"Conseils en formation, gestion de personnel",911,91.10
+Activity,Conseils en immobilier d'entreprise,2,29.00
+Activity,"Conseils en organisation, gestion management",5521,165.63
+Activity,"Conseils généraux, départementaux et régionaux",138,29.00
+Activity,"Conseils, études économiques, financière et sociologiques",1186,53.37
+Activity,Conservatoires,68,29.00
+Activity,Constructeurs de maisons en bois et de chalets,651,65.10
+Activity,"Construction (Tous bâtiments, matériaux)",10980,274.50
+Activity,Construction de bâtiments,4680,210.60
+Activity,Construction de maisons,862,86.20
+Activity,Construction de réseaux électriques et de télécommunications,124,0
+Activity,Construction de réseaux pour fluides,209,29.00
+Activity,Construction de routes et autoroutes,306,36.72
+Activity,Construction de voies ferrées de surface et souterraines,14,0
+Activity,Construction et entretien de tunnels,1,0
+Activity,"Construction, importation de véhicules industriels",16,29.00
+Activity,"Constructions navales, fluviales",203,29.00
+Activity,Consultants en gestion d'entreprise,10,0
+Activity,Contrôle technique de poids lourds,15,29.00
+Activity,Contrôles techniques de bâtiment,306,36.72
+Activity,Coopératives agricoles,132,29.00
+Activity,"Cordonniers, cordonneries",317,38.04
+Activity,"Cosmétiques, produits de beauté et parfums (détail)",294,35.28
+Activity,Costumiers,50,29.00
+Activity,"Cours (activités, loisirs)",3576,160.92
+Activity,Cours de yoga,950,95.00
+Activity,Courtiers en marchandises,317,38.04
+Activity,Courtiers en travaux,180,29.00
+Activity,Courtiers et négociants (hors assurances et finance),1151,51.80
+Activity,"Courtiers et négociants en vins, spiritueux et alcools",624,62.40
+Activity,Courtiers financiers,795,79.50
+Activity,"Courtiers, établissements et activités auxiliaires des services financiers et crédits",2122,95.49
+Activity,"Courtiers, négociants en bois",1,0
+Activity,Couture (création en couture et haute couture),464,55.68
+Activity,"Couture, couturiers (retouches)",1337,60.17
+Activity,"Couture, couturiers et haute couture",1924,86.58
+Activity,Couvreurs,8641,259.23
+Activity,Création de sites internet,3129,140.81
+Activity,Création publicitaire,296,35.52
+Activity,Crèches,949,94.90
+Activity,Crédits et prêts immobiliers,503,50.30
+Activity,Crêpiers (crêperies),74,29.00
+Activity,"Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques",5,0
+Activity,"Culture, tourisme (services publics)",102,29.00
+Activity,"Déchets (collecte, recyclage, valorisation)",957,95.70
+Activity,Décoration florale,98,29.00
+Activity,"Décors, accessoires de théâtre, de cinéma",31,29.00
+Activity,Déménageurs,1390,62.55
+Activity,Démolition,316,37.92
+Activity,Dentistes,1778,80.01
+Activity,Dentistes : chirurgiens-dentistes et docteurs en chirurgie dentaire,2575,115.88
+Activity,Dépannage (tous secteurs),9377,281.31
+Activity,"Dépannage, remorquage",664,66.40
+Activity,"Dératisation, désinsectisation, désinfection",958,95.80
+Activity,Dermatologues,101,29.00
+Activity,Designers,1478,66.51
+Activity,Diagnostic énergétique et thermique,35,29.00
+Activity,Diagnostics immobiliers,2140,96.30
+Activity,Diététiciens,1415,63.68
+Activity,Discothèques,203,29.00
+Activity,Domiciliations d'entreprises,298,35.76
+Activity,Ebénisterie,1050,47.25
+Activity,"Echafaudages, échelles",199,29.00
+Activity,Ecoles (Collèges publiques et privés),1407,63.32
+Activity,Ecoles (Lycées publiques et privés),1885,84.83
+Activity,Ecoles de voile,104,29.00
+Activity,"Ecoles maternelles (publiques, privées)",585,58.50
+Activity,Ecoles maternelles privée,377,45.24
+Activity,"Ecoles primaires (publiques, privées)",1132,50.94
+Activity,Ecoles primaires privée,684,68.40
+Activity,"Ecoles, moniteurs de ski",138,29.00
+Activity,"Economie, finances (services publics)",22,29.00
+Activity,Économistes de la construction,577,57.70
+Activity,Editeurs de livres,1090,49.05
+Activity,"Edition de journaux, de presse, de magazines",739,73.90
+Activity,Education nationale (services publics généraux),77,29.00
+Activity,Electriciens,18478,461.95
+Activity,Electroménager (détail),814,81.40
+Activity,Electroménager (gros),236,29.00
+Activity,Elevage de chien,268,32.16
+Activity,Elevages de chats,69,29.00
+Activity,Elevages de chiens et chats,1155,51.98
+Activity,Éleveurs d'ovins et de caprins,207,29.00
+Activity,Éleveurs de bovins,631,63.10
+Activity,"Éleveurs de moutons, de chèvres",31,29.00
+Activity,Éleveurs de porcs et porcins,183,29.00
+Activity,"Emballages (fabrication, production, tous types)",1521,68.45
+Activity,Emballages et conditionnements,1699,76.46
+Activity,"Emploi, travail (services publics)",191,29.00
+Activity,Energie solaire,264,31.68
+Activity,Energies renouvelables,980,98.00
+Activity,Enseignement (Tous niveaux),8052,241.56
+Activity,"Enseignement : social, paramédical",204,29.00
+Activity,Enseignement supérieur privé,809,80.90
+Activity,"Enseignement supérieur, universités, facultés (publiques, privés)",1358,61.11
+Activity,Entrepreneurs généraux en bâtiments,38,0
+Activity,Entreprises d'affichage,207,29.00
+Activity,Entreprises d'agencement (tous secteurs),1211,54.50
+Activity,Entreprises de bâtiment,1427,64.22
+Activity,Entreprises de fabrication/manufacture (Tous secteurs),27749,554.98
+Activity,Entreprises de miroiterie,303,36.36
+Activity,"Entreprises de staff, de stuc",71,29.00
+Activity,"Entreprises de surveillance, de gardiennage, de protection",1059,47.66
+Activity,Entreprises de terrassement,3532,158.94
+Activity,Entretien et réparation d'autres véhicules automobiles,130,29.00
+Activity,"Environnement, habitat (services publics)",108,29.00
+Activity,Epiceries,631,63.10
+Activity,Epiceries fines,571,57.10
+Activity,Epiceries solidaires,14,29.00
+Activity,Equipements industriels (gros),2286,102.87
+Activity,Ergothérapeutes,606,60.60
+Activity,Esthéticiennes à domicile,1857,83.57
+Activity,Etablissements d'éducation spécialisée,223,29.00
+Activity,Etablissements pénitentiaires,21,29.00
+Activity,Etancheurs,901,90.10
+Activity,Etiopathie,11,29.00
+Activity,Expertise comptable,1487,66.92
+Activity,Experts (Bâtiment et Géomètres),1395,62.78
+Activity,Experts en antiquités et objets d'art,188,29.00
+Activity,Experts en assurances,259,31.08
+Activity,Experts en automobile,241,29.00
+Activity,Experts en bâtiment,602,60.20
+Activity,Experts en immobilier,663,66.30
+Activity,Experts et expertises (Tous secteurs),4629,208.31
+Activity,"Experts fonciers, agricoles",106,29.00
+Activity,Experts forestiers,44,29.00
+Activity,Experts maritimes,28,29.00
+Activity,Fabrication d'aliments pour animaux de compagnie,9,0
+Activity,Fabrication d'aliments pour animaux de ferme,94,0
+Activity,Fabrication d'articles de bijouterie et joaillerie,713,71.30
+Activity,"Fabrication d'articles, pièces et produits en matière plastique",1165,52.43
+Activity,Fabrication d'emballages en bois,391,46.92
+Activity,Fabrication d'emballages en matières plastiques,389,46.68
+Activity,Fabrication d'huiles et graisses raffinées,21,0
+Activity,"Fabrication d'objets divers en bois - fabrication d'objets en liège, vannerie et sparterie",185,29.00
+Activity,Fabrication d'outillage,208,29.00
+Activity,Fabrication de bières,291,34.92
+Activity,"Fabrication de biscuits, biscottes et pâtisseries de conservation",103,0
+Activity,Fabrication de cidre et de vins de fruits,80,29.00
+Activity,Fabrication de lait liquide et de produits frais,30,0
+Activity,Fabrication de machines-outils,326,39.12
+Activity,Fabrication de matelas,34,0
+Activity,Fabrication de matériaux de construction,417,50.04
+Activity,Fabrication de matières plastiques de base,73,29.00
+Activity,Fabrication de meubles de cuisine,92,29.00
+Activity,Fabrication de pâtes alimentaires,25,0
+Activity,Fabrication de plats préparés,102,29.00
+Activity,Fabrication de préparations pharmaceutiques,191,29.00
+Activity,Fabrication de sucre,10,0
+Activity,Fabrication de tapis et moquettes,12,0
+Activity,Fabrication de textiles,788,78.80
+Activity,Fabrication de vêtements,782,78.20
+Activity,Fabrication de vêtements de travail,91,29.00
+Activity,Fabrication industrielle de pain et de pâtisserie fraîche,119,29.00
+Activity,"Fabrication, production de boissons alcoolisées",239,29.00
+Activity,"Fabrication, production de boissons non-alcoolisées",269,32.28
+Activity,Ferronnerie et Ferronnerie d'art,830,83.00
+Activity,Finance (Tous secteurs),2837,127.67
+Activity,Fleuristes,3727,167.72
+Activity,Fonderie (Tous secteurs),262,31.44
+Activity,Fonds de placement et entités financières similaires,364,43.68
+Activity,Forges et fonderies,621,62.10
+Activity,Formation E-learning,14,0
+Activity,Formation informatique,432,51.84
+Activity,"Fourrures, fourreurs",58,29.00
+Activity,"Fromageries (fabrication, affinage, vente)",604,60.40
+Activity,Fruits et légumes (gros),960,96.00
+Activity,"Gadgets, souvenirs et carteries",4,29.00
+Activity,Garages poids lourds,370,44.40
+Activity,"Garages, hivernage de bateaux",68,29.00
+Activity,Garde d'enfants,797,79.70
+Activity,Géomètres et métreurs,1286,57.87
+Activity,Géomètres-experts,799,79.90
+Activity,Gestion de fonds,284,34.08
+Activity,Gestion de patrimoine,1085,48.83
+Activity,Gestion des sites et monuments historiques et des attractions touristiques similaires,49,0
+Activity,Gîtes et chambres d'hôtes,10215,255.38
+Activity,Glaciers,141,29.00
+Activity,Graphistes et Activités graphiques,4987,224.42
+Activity,"Hammams, Saunas",148,29.00
+Activity,Hébergement social (Tous types),142,0
+Activity,Hébergement touristique,1008,45.36
+Activity,Hébergements et services pour personnes handicapées,837,83.70
+Activity,Hébergements médicalisés,357,0
+Activity,Hébergements sociaux,182,0
+Activity,Holding,2132,95.94
+Activity,Homéopathes,71,29.00
+Activity,"Horlogers, horlogeries",931,93.10
+Activity,Hôtels,16988,424.70
+Activity,Hôtels avec restaurant,31,29.00
+Activity,Hypermarchés et Supermarchés,1763,79.34
+Activity,"Hypermarchés, Supermarchés et Superettes",1773,79.79
+Activity,Hypnothérapie,276,33.12
+Activity,Immobilier d'entreprise,264,31.68
+Activity,Import-Export (Tous secteurs),923,92.30
+Activity,Imprimeurs,4903,220.64
+Activity,Industrie chimique,2007,90.32
+Activity,Industries Alimentaires,1682,75.69
+Activity,Industries du bois (Tous secteurs),3172,142.74
+Activity,Industries du ciment (Tous secteurs),64,0
+Activity,Industries du verre (Tous secteurs),430,51.60
+Activity,Industries pierres et minerais (Tous secteurs),1094,49.23
+Activity,Informatique (détail),354,42.48
+Activity,Informatique (gros),782,78.20
+Activity,"Informatique : Conseil, dépannage, maintenance",13901,347.53
+Activity,"Informatique : Programmation, édition de logiciels",5956,178.68
+Activity,"Informatique : Services, conseils, ingénierie, formation (SSII)",2442,109.89
+Activity,"Ingénierie, études techniques",4287,192.92
+Activity,Installations frigorifiques,374,44.88
+Activity,Instituts de beauté et Spas,7489,224.67
+Activity,"Instruments de musique (Fabrication, Vente et réparation)",644,64.40
+Activity,Intermédiaires du commerce en bois et matériaux de construction,93,0
+Activity,"Investissement (conseils, portefeuilles, investisseurs)",53,0
+Activity,"Jardineries, pépinièristes",1318,59.31
+Activity,Jeux vidéo,122,29.00
+Activity,Jouets (détail),232,0
+Activity,Karting,60,29.00
+Activity,Kinésithérapeutes,2195,98.78
+Activity,Laboratoires d'analyses de biologie médicale,603,60.30
+Activity,Laboratoires pharmaceutiques,191,29.00
+Activity,Laiteries - Fermes laitières,873,87.30
+Activity,Lavage Poids Lourds,11,29.00
+Activity,Leçons de musique et de chant,1489,67.01
+Activity,Librairie (Hors Papeterie),1049,47.21
+Activity,Librairie - Papeterie,1278,57.51
+Activity,Librairies musicales,43,29.00
+Activity,Lingerie,332,39.84
+Activity,Literie,559,55.90
+Activity,"Location d'automobiles (tourisme, utilitaires)",1198,53.91
+Activity,"Location d'automobiles avec chauffeur, VTC, chauffeurs d'automobiles",1286,57.87
+Activity,Location de bateaux,357,42.84
+Activity,Location de bennes,274,32.88
+Activity,Location de bureaux équipés (Coworking),191,29.00
+Activity,Location de camions,439,52.68
+Activity,Location de matériel audiovisuel,178,29.00
+Activity,Location de matériel pour réceptions,461,55.32
+Activity,"Location de matériel, machines et équipements agricole",94,29.00
+Activity,Location de salles,1036,46.62
+Activity,Location de vélos,250,30.00
+Activity,Location et exploitation de biens immobiliers propres ou loués,21975,549.38
+Activity,Location et location-bail de machines et équipements pour la construction,293,0
+Activity,Location saisonnière,545,54.50
+Activity,Locations immobilières,21191,529.78
+Activity,Logistiques,621,62.10
+Activity,Lotisseurs et aménageurs fonciers,337,40.44
+Activity,Luminaires,290,34.80
+Activity,"Lunetiers (fabrication, vente)",5088,152.64
+Activity,Lycées privés,497,59.64
+Activity,"Machines agricoles (fabrication, location et vente)",371,44.52
+Activity,Machines et matériel pour l'industrie de l'alimentation,1,0
+Activity,Maçons,11582,289.55
+Activity,Magasins bio,556,55.60
+Activity,Magasins de décoration,663,66.30
+Activity,Magasins multi-commerces,4,0
+Activity,Magnétiseurs,57,29.00
+Activity,Maintenance industrielle,688,68.80
+Activity,Mairies,31026,620.52
+Activity,Maisons de retraite (EHPAD),1895,85.28
+Activity,Maîtres d'oeuvre en bâtiment,1557,70.07
+Activity,Mandataires immobiliers,1106,49.77
+Activity,"Manutention (portuaire, non portuaire)",104,29.00
+Activity,Maquilleuses,13,29.00
+Activity,Marbre de décoration,157,29.00
+Activity,"Marbres, granits, pierres naturelles",236,29.00
+Activity,Marbriers funéraires,424,50.88
+Activity,Marchands de biens immobiliers,295,35.40
+Activity,"Marketing (agences, conseils)",707,70.70
+Activity,Marketing téléphonique,92,29.00
+Activity,"Maroquiniers, maroquineries",746,74.60
+Activity,Matériaux d'isolation,163,29.00
+Activity,Matériaux de construction,2201,99.05
+Activity,"Matériel agricole : fabrication, vente, réparation",2064,92.88
+Activity,Matériel audiovisuel,191,29.00
+Activity,Matériel de camping,21,29.00
+Activity,"Matériel médical : fabrication, vente",3780,170.10
+Activity,"Matériel pour boucheries, charcuteries, abattoirs",45,29.00
+Activity,"Matériel pour boulangeries, pâtisseries",167,29.00
+Activity,"Matériel pour cafés, bars, brasseries",68,29.00
+Activity,Matériel pour commerces alimentaires,35,29.00
+Activity,Matériel pour froid industriel,102,29.00
+Activity,Matériel pour glaciers,14,29.00
+Activity,Matériel pour hôtels,55,29.00
+Activity,Matériel pour industrie laitière,11,29.00
+Activity,Matériel pour piscines,235,29.00
+Activity,Matériel pour restaurants,132,29.00
+Activity,Médecin du sommeil,5,29.00
+Activity,"Médecin: Endocrinologue, diabétologue",19,29.00
+Activity,Médecine du travail,115,29.00
+Activity,Médecine et Santé (Tous secteurs),32241,644.82
+Activity,Médecine traditionnelle chinoise,44,29.00
+Activity,Médecins : addictologues,7,0
+Activity,Médecins : allergologues,23,0
+Activity,"Médecins : anesthésistes, réanimateurs",13,29.00
+Activity,"Médecins : angiologues, médecine vasculaire",65,29.00
+Activity,Médecins : cancérologues,2,0
+Activity,"Médecins : Chirurgie plastique, reconstructrice et esthétique",6,0
+Activity,"Médecins : Chirurgien maxillo-facial, stomatologue",38,29.00
+Activity,Médecins : Échographiste,25,29.00
+Activity,"Médecins : endocrinologue, diabétologue",20,29.00
+Activity,"Médecins : gériatres, gérontologues",11,29.00
+Activity,Médecins : homéopathes,71,29.00
+Activity,Médecins : légistes,17,29.00
+Activity,Médecins : médecine interne,6,0
+Activity,Médecins : médecine nucléaire,21,0
+Activity,Médecins : médecine physique et de réadaptation,11,29.00
+Activity,Médecins : mésothérapeutes,19,29.00
+Activity,"Médecins : Neurologues, Neurochirurgien",48,29.00
+Activity,Médecins : nutritionniste,38,29.00
+Activity,"Médecins : oncologues, radiothérapeutes",8,0
+Activity,Médecins : Orthopédiste dento-maxillo-facial,31,29.00
+Activity,Médecins : pathologie du sommeil,6,29.00
+Activity,Médecins : pneumologues,39,29.00
+Activity,Médecins : radiologues,177,29.00
+Activity,Médecins : Rhumatologue,34,0
+Activity,Médecins : Sexologues,29,29.00
+Activity,Médecins : soins palliatifs,2,0
+Activity,Médecins : tabacologues,6,29.00
+Activity,Médecins : thermalistes,3,0
+Activity,"Médecins cardiologues, maladies vasculaires",108,29.00
+Activity,Médecins du sport,55,29.00
+Activity,Médecins généralistes,2612,117.54
+Activity,Médecins généralistes spécialistes,3805,171.23
+Activity,Médecins gynécologues,156,29.00
+Activity,Médecins ophtalmologues,79,29.00
+Activity,Médecins ORL,46,29.00
+Activity,Médecins pédiatres,51,29.00
+Activity,Médecins spécialistes,961,96.10
+Activity,"Médecins: gastro-entérologues, hépatologues",55,29.00
+Activity,Menuiserie aluminium,247,29.64
+Activity,Menuiserie bois,2445,110.03
+Activity,Menuiserie d'agencement,64,29.00
+Activity,Menuiserie PVC,3722,167.49
+Activity,"Menuiserie PVC, Menuiserie Métallique, Menuiserie aluminium, Menuiserie extérieure",2487,111.92
+Activity,"Menuiserie PVC, Menuiserie Métallique, Menuiserie aluminium, Menuiserie extérieure, Menuiserie",2488,111.96
+Activity,"Menuiseries, menuisiers",14229,355.73
+Activity,Merceries,169,29.00
+Activity,"Métallurgie, Fabrication d'articles métaux/acier (Industrie)",1619,72.86
+Activity,Meubles (détail),2652,119.34
+Activity,Meubles (fabrication),1385,62.33
+Activity,Meunerie,204,29.00
+Activity,Mobilier de jardin,106,29.00
+Activity,Moto et Scooter (vente et réparation),2670,120.15
+Activity,Musées,892,89.20
+Activity,"Musique (édition musicale, phonographique d'enregistrements sonores)",341,40.92
+Activity,"NAF - SECTION A - DIVISION 01 - Culture et production animale, chasse et services annexes",10224,255.60
+Activity,NAF - SECTION A - DIVISION 02 - Sylviculture et exploitation forestière,549,54.90
+Activity,NAF - SECTION A - DIVISION 03 - Pêche et aquaculture,462,55.44
+Activity,NAF - SECTION B - DIVISIONS 05 06 07 08 09 - Industries extractives,256,0
+Activity,NAF - SECTION C - DIVISION 10-1 - 1011Z - 1012Z - 1013A - 1013B - Transformation et conservation de la viande et préparation de produits à base de viande,1161,52.25
+Activity,"NAF - SECTION C - DIVISION 10-2 - 1020Z - Transformation et conservation de poisson, de crustacés et de mollusques",65,29.00
+Activity,NAF - SECTION C - DIVISION 10-3 - 1031Z - 1032Z - 1039A - 1039B - Transformation et conservation de fruits et légumes,136,29.00
+Activity,NAF - SECTION C - DIVISION 10-4 - 1041A - 1041B - 1042Z - Fabrication d'huiles et graisses végétales et animales,176,29.00
+Activity,NAF - SECTION C - DIVISION 10-5 - 1051A - 1051B - 1051C -1051D - 1052Z - Fabrication de produits laitiers,417,50.04
+Activity,NAF - SECTION C - DIVISION 10-6 - 1061A - 1061B -1062Z - Travail des grains ; fabrication de produits amylacés,228,29.00
+Activity,NAF - SECTION C - DIVISION 10-7 - 1071A - 1071B - 1071D - 1072Z - 1073Z - Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires,4508,202.86
+Activity,NAF - SECTION C - DIVISION 10-8 - 1081Z - 1082Z - 1083Z - 1084Z - 1085Z - 1086Z -1089Z - Fabrication d'autres produits alimentaires,989,98.90
+Activity,NAF - SECTION C - DIVISION 10-9 - 1091Z - 1092Z - Fabrication d'aliments pour animaux,103,0
+Activity,NAF - SECTION C - DIVISION 11 - 1001Z - 1002A - 1102B - 1103Z - 1104Z -1105Z - 1106Z - 1107A - 1107B - Fabrication de boissons,809,80.90
+Activity,NAF - SECTION C - DIVISION 12 - 1200Z - Fabrication de produits à base de tabac,7,0
+Activity,NAF - SECTION C - DIVISION 13-1 - 1310Z - Préparation de fibres textiles et filature,38,0
+Activity,NAF - SECTION C - DIVISION 13-2 - 1320Z - Tissage,105,29.00
+Activity,NAF - SECTION C - DIVISION 13-3 - 1330Z - Ennoblissement textile,68,29.00
+Activity,NAF - SECTION C - DIVISION 13-9 - 1391Z - 1392Z - 1393Z - 1394Z - 1395Z - 1396Z - 1399Z - Fabrication d'autres textiles,431,51.72
+Activity,"NAF - SECTION C - DIVISION 14-1 - 1411Z - 1412Z - 1413Z - 1414Z - 1419Z - Fabrication de vêtements, autres qu'en fourrure",763,76.30
+Activity,NAF - SECTION C - DIVISION 14-2 - 1420Z - Fabrication d'articles en fourrure,11,0
+Activity,NAF - SECTION C - DIVISION 14-3 - 1431Z - 1439Z - Fabrication d'articles à mailles,30,0
+Activity,"NAF - SECTION C - DIVISION 15-1 - 1511Z - 1512Z - Apprêt et tannage des cuirs, préparation et teinture des fourrures, fabrication d'articles de voyage, de maroquinerie et de sellerie",301,36.12
+Activity,NAF - SECTION C - DIVISION 15-2 - 1520Z - Fabrication de chaussures,162,29.00
+Activity,NAF - SECTION C - DIVISION 16-1 - 1610A - 1610B - Sciage et rabotage du bois,435,52.20
+Activity,"NAF - SECTION C - DIVISION 16-2 - 1621Z - 1622Z - 1623Z - 1624Z - 1629Z - Fabrication d'articles en bois, liège, vannerie et sparterie",742,74.20
+Activity,NAF - SECTION C - DIVISION 17 - 1711Z - 1712Z - 1721A - 1721B - 1721C - 1722Z - 1723Z - 1724Z - 1729Z - Industrie du papier et du carton,443,53.16
+Activity,NAF - SECTION C - DIVISION 18 - 1811Z - 1812Z - 1813Z - 1814Z - 1820Z - Imprimerie et reproduction d'enregistrements,4428,199.26
+Activity,NAF - SECTION C - DIVISION 19-2 - 1920Z - Raffinage du pétrole,55,0
+Activity,"NAF - SECTION C - DIVISION 20-1 - 2011Z - 2012Z - 2313A - 2013B - 2014Z - 2015Z - 2016Z - 2017Z - Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique",472,56.64
+Activity,NAF - SECTION C - DIVISION 20-2 - 2020Z - Fabrication de pesticides et d'autres produits agrochimiques,30,0
+Activity,"NAF - SECTION C - DIVISION 20-3 - 2030Z - Fabrication de peintures, vernis, encres et mastics",292,35.04
+Activity,"NAF - SECTION C - DIVISION 20-4 - 2041Z - 2042Z - Fabrication de savons, de produits d'entretien et de parfums",458,54.96
+Activity,NAF - SECTION C - DIVISION 20-5 - 2051Z - 2052Z - 2053Z - 2059Z - Fabrication d'autres produits chimiques,136,29.00
+Activity,NAF - SECTION C - DIVISION 20-6 - 2060Z - Fabrication de fibres artificielles ou synthétiques,1,0
+Activity,NAF - SECTION C - DIVISION 21-1 - 2110Z - Fabrication de produits pharmaceutiques de base,72,29.00
+Activity,NAF - SECTION C - DIVISION 21-2 - 2120Z - Fabrication de préparations pharmaceutiques,132,0
+Activity,NAF - SECTION C - DIVISION 22-1 - 2211Z - 2219Z - Fabrication de produits en caoutchouc,246,29.52
+Activity,NAF - SECTION C - DIVISION 22-2 - 2221Z - 2222Z - 2223Z - 2229A - 2229B - Fabrication de produits en plastique,1234,55.53
+Activity,NAF - SECTION C - DIVISION 23-1 - 2311Z - 2312Z - 2313Z - 2314Z - 2319Z - Fabrication de verre et d'articles en verre,366,43.92
+Activity,NAF - SECTION C - DIVISION 23-2 - 2320Z - Fabrication de produits réfractaires,30,29.00
+Activity,NAF - SECTION C - DIVISION 23-3 - 2331Z - 2332Z - Fabrication de matériaux de construction en terre cuite,86,29.00
+Activity,NAF - SECTION C - DIVISION 23-4 - 2341Z - 2342Z - 2343Z - 2344Z -2349Z - Fabrication d'autres produits en céramique et en porcelaine,442,53.04
+Activity,"NAF - SECTION C - DIVISION 23-5 - 2351Z - 2352Z - Fabrication de ciment, chaux et plâtre",91,0
+Activity,"NAF - SECTION C - DIVISION 23-6 - 2361Z - 2362Z - 2363Z - 2364Z - 2365Z - 2369Z - Fabrication d'ouvrages en béton, en ciment ou en plâtre",660,66.00
+Activity,"NAF - SECTION C - DIVISION 23-7 - 2370Z - Taille, façonnage et finissage de pierres",280,33.60
+Activity,NAF - SECTION C - DIVISION 23-9 - 2391Z - 2399Z - Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a,86,29.00
+Activity,NAF - SECTION C - DIVISION 24-1 - 2410Z - Sidérurgie,215,29.00
+Activity,"NAF - SECTION C - DIVISION 24-2 - 2420Z - Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier",239,29.00
+Activity,NAF - SECTION C - DIVISION 24-3 - 2431Z - 2432Z - 2433Z - 2434Z - Fabrication d'autres produits de première transformation de l'acier,41,0
+Activity,NAF - SECTION C - DIVISION 24-4 - 2441Z - 2442Z - 2443Z - 2444Z - 2445Z - 2446Z - Production de métaux précieux et d'autres métaux non ferreux,334,40.08
+Activity,NAF - SECTION C - DIVISION 24-5 - 2451Z - 2452Z - 2453Z - 2454Z - Fonderie,262,31.44
+Activity,NAF - SECTION C - DIVISION 25-1 - 2511Z - 2512Z - Fabrication d'éléments en métal pour la construction,1072,48.24
+Activity,"NAF - SECTION C - DIVISION 25-2 - 2521Z - 2529Z - Fabrication de réservoirs, citernes et conteneurs métalliques",210,29.00
+Activity,"NAF - SECTION C - DIVISION 25-3 - 2530Z - Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central",11,0
+Activity,NAF - SECTION C - DIVISION 25-4 - 2540Z - Fabrication d'armes et de munitions,43,29.00
+Activity,"NAF - SECTION C - DIVISION 25-5 - 2550A - 2550B - Forge, emboutissage, estampage ; métallurgie des poudres",518,51.80
+Activity,"NAF - SECTION C - DIVISION 25-6 - 2561Z - 2562A - 2562B - Traitement et revêtement des métaux, usinage",2030,91.35
+Activity,"NAF - SECTION C - DIVISION 25-7 - 2571Z - 2572Z - 2573A - 2573B - Fabrication de coutellerie, d'outillage et de quincaillerie",3799,170.96
+Activity,NAF - SECTION C - DIVISION 25-9 - 2591Z - 2592Z - 2593Z - 2594Z - 2599A - 2599B - Fabrication d'autres ouvrages en métaux,543,54.30
+Activity,NAF - SECTION C - DIVISION 30-1 - 3011Z - 3012Z - Construction navale,236,29.00
+Activity,NAF - SECTION C - DIVISION 30-2 - 3020Z - Construction de locomotives et d'autre matériel ferroviaire roulant,11,0
+Activity,NAF - SECTION C - DIVISION 30-3 - 3030Z - Construction aéronautique et spatiale,247,29.64
+Activity,NAF - SECTION C - DIVISION 30-4 - 3040Z - Construction de véhicules militaires de combat,3,0
+Activity,NAF - SECTION C - DIVISION 30-9 - 3091Z - 3092Z - 3099Z - Fabrication de matériels de transport n.c.a,95,29.00
+Activity,NAF - SECTION C - DIVISION 31 - 3101Z - 3102Z - 3103Z - 3109A - 3109B - Fabrication de meubles,1481,66.65
+Activity,"NAF - SECTION C - DIVISION 32-1 - 3211Z - 3212Z - 3213Z - Fabrication d'articles de joaillerie, bijouterie et articles similaires",860,86.00
+Activity,NAF - SECTION C - DIVISION 32-2 - 3220Z - Fabrication d'instruments de musique,195,29.00
+Activity,NAF - SECTION C - DIVISION 32-3 - 3230Z - Fabrication d'articles de sport,345,41.40
+Activity,NAF - SECTION C - DIVISION 32-4 - 3240Z - Fabrication de jeux et jouets,192,29.00
+Activity,NAF - SECTION C - DIVISION 32-5 - 3250A - 3250B - Fabrication d'instruments et de fournitures à usage médical et dentaire,1238,55.71
+Activity,NAF - SECTION C - DIVISION 32-9 - 3291Z - 3299Z - Activités manufacturières n.c.a,198,0
+Activity,"NAF - SECTION C - DIVISION 33-1 - 3311Z - 3312Z - 3313Z -3314Z - 3315Z - 3316Z - 3317Z - 3319Z - Réparation d'ouvrages en métaux, de machines et d'équipements",1697,76.37
+Activity,NAF - SECTION C - DIVISION 33-2 - 3320A - 3320B -3320C - 3320D - Installation de machines et d'équipements industriels,1365,61.43
+Activity,"NAF - SECTION D - DIVISION 35-1 - 3511Z - 3512Z - 3513Z - 3514Z - Production, transport et distribution d'électricité",1198,53.91
+Activity,NAF - SECTION D - DIVISION 35-2 - 3521Z - 3522Z - 3523Z - Production et distribution de combustibles gazeux,138,29.00
+Activity,NAF - SECTION D - DIVISION 35-3 - 3530Z - Production et distribution de vapeur et d'air conditionné,167,29.00
+Activity,"NAF - SECTION E - DIVISION 36 - 3600Z - Captage, traitement et distribution d'eau",331,39.72
+Activity,NAF - SECTION E - DIVISION 37 - 3700Z- Collecte et traitement des eaux usées,150,29.00
+Activity,"NAF - SECTION E - DIVISION 38 - 3811Z - 3812Z - 3821Z - 3822Z - 3831Z - 3832ZCollecte, traitement et élimination des déchets, récupération",1785,80.33
+Activity,NAF - SECTION E - DIVISION 39 - 3900Z - Dépollution et autres services de gestion des déchets,145,29.00
+Activity,NAF - SECTION F - DIVISION 41-1 - 4110A - 4110B - 4110C - 4110D - Promotion immobilière,1773,79.79
+Activity,NAF - SECTION F - DIVISION 41-2 - 4120A - 4120B - Construction de bâtiments résidentiels et non résidentiels,3732,167.94
+Activity,NAF - SECTION F - DIVISION 42-1 - 4211Z - 4212Z - 4213A - 4213B - Construction de routes et de voies ferrées,360,43.20
+Activity,NAF - SECTION F - DIVISION 42-2 - 4221Z - 4222Z - Construction de réseaux et de lignes,331,39.72
+Activity,NAF - SECTION F - DIVISION 42-9 - 4291Z - 4299Z - Construction d'autres ouvrages de génie civil,176,29.00
+Activity,NAF - SECTION F - DIVISION 43-1 - 4311Z - 4312A - 4312B - 4313Z - Démolition et préparation des sites,4139,186.26
+Activity,"NAF - SECTION F - DIVISION 43-2 - 4321A - 4321B - 4322A - 4322B - 4329A - 4329B - Travaux d'installation électrique, plomberie et autres travaux d'installation",34712,694.24
+Activity,NAF - SECTION F - DIVISION 43-3 - 4331Z - 4332A - 4332B - 4332C - 4333Z - 4334Z - 4339Z - Travaux de finition,30081,601.62
+Activity,NAF - SECTION F - DIVISION 43-9 - 4391A - 4391B - 4399A - 4399B - 4399C - 4399D - 4399E - Autres travaux de construction spécialisés,24756,618.90
+Activity,NAF - SECTION G - DIVISION 45-1 - 4511Z - 4519Z - Commerce de véhicules automobiles,5336,160.08
+Activity,NAF - SECTION G - DIVISION 45-2 - 4520A - 4520B - Entretien et réparation de véhicules automobiles,13865,346.63
+Activity,NAF - SECTION G - DIVISION 45-3 - 4531Z - 4532Z - Commerce d'équipements automobiles,2711,122.00
+Activity,NAF - SECTION G - DIVISION 45-4 - 4540Z - Commerce et réparation de motocycles,2707,121.82
+Activity,NAF - SECTION G - DIVISION 46-1 - 4611Z - 4612A - 4612B - 4613Z - 4614Z - 4615Z - 4616Z - 4617A - 4617B - 4618Z - 4619A - 4619B - Intermédiaires du commerce de gros,1968,88.56
+Activity,NAF - SECTION G - DIVISION 46-2 - 4621Z - 4622Z - 4623Z - 4624Z - Commerce de gros de produits agricoles bruts et d'animaux vivants,1055,47.48
+Activity,"NAF - SECTION G - DIVISION 46-3 - 4631Z - 4632A - 4632B - 4632C - 4633Z - 4634Z - 4635Z - 4636Z - 4637Z - 4638A - 4638B - 4639A - 4639B - Commerce de gros de produits alimentaires, de boissons et de tabac",4061,182.75
+Activity,NAF - SECTION G - DIVISION 46-4 - 4641Z - 4642Z - 4643Z - 4644Z - 4645Z - 4647Z - 4648Z - 4649Z - Commerce de gros de biens domestiques,5142,154.26
+Activity,NAF - SECTION G - DIVISION 46-5 - 4651Z - 4652Z - Commerce de gros d'équipements de l'information et de la communication,1145,51.53
+Activity,NAF - SECTION G - DIVISION 46-6 - 4661Z - 4662Z - 4663Z - 4664Z - 4665Z - 4666Z - 4669A - 4669B - 4669C - Commerce de gros d'autres équipements industriels,5533,165.99
+Activity,NAF - SECTION G - DIVISION 46-7 - 4671Z - 4672Z - 4673A - 4673B - 4674A - 4674B - 4675Z - 4676Z - 4677Z - Autres commerces de gros spécialisés,4426,199.17
+Activity,NAF - SECTION G - DIVISION 46-9 - 4690Z - Commerce de gros non spécialisé,845,84.50
+Activity,NAF - SECTION G - DIVISION 47-1 - 4711A - Commerce de détail de produits surgelés,74,29.00
+Activity,NAF - SECTION G - DIVISION 47-1 - 4711B - Commerce d'alimentation générale,435,0
+Activity,NAF - SECTION G - DIVISION 47-1 - 4711C - Supérettes,955,95.50
+Activity,"NAF - SECTION G - DIVISION 47-1 - 4711D - 4711E - 4711F - 4719A - Supermarchés, hypermarchés, magasins multi-commerces, grands magasins",1503,67.64
+Activity,NAF - SECTION G - DIVISION 47-1 - 4719B - Autres commerces de détail en magasin non spécialisé,191,29.00
+Activity,NAF - SECTION G - DIVISION 47-2 - 4721Z - Commerce de détail de fruits et légumes en magasin spécialisé,201,29.00
+Activity,NAF - SECTION G - DIVISION 47-2 - 4722Z - Commerce de détail de viandes et de produits à base de viande en magasin spécialisé,1511,68.00
+Activity,"NAF - SECTION G - DIVISION 47-2 - 4723Z - Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé",217,29.00
+Activity,"NAF - SECTION G - DIVISION 47-2 - 4724Z - Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé",4925,221.63
+Activity,NAF - SECTION G - DIVISION 47-2 - 4725Z - Commerce de détail de boissons en magasin spécialisé,1562,70.29
+Activity,NAF - SECTION G - DIVISION 47-2 - 4726Z - Commerce de détail de produits à base de tabac en magasin spécialisé,536,53.60
+Activity,NAF - SECTION G - DIVISION 47-2 - 4729Z - Autres commerces de détail alimentaires en magasin spécialisé,635,63.50
+Activity,NAF - SECTION G - DIVISION 47-3 - 4730Z - Commerce de détail de carburants en magasin spécialisé,375,45.00
+Activity,"NAF - SECTION G - DIVISION 47-4 - 4741Z - Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé",2591,116.60
+Activity,NAF - SECTION G - DIVISION 47-4 - 4742Z - Commerce de détail de matériels de télécommunication en magasin spécialisé,1001,45.05
+Activity,NAF - SECTION G - DIVISION 47-4 - 4743Z - Commerce de détail de matériels audio et vidéo en magasin spécialisé,1080,48.60
+Activity,NAF - SECTION G - DIVISION 47-5 - 4751Z - Commerce de détail de textiles en magasin spécialisé,431,51.72
+Activity,"NAF - SECTION G - DIVISION 47-5 - 4752A - 4752B - Commerce de détail de quincaillerie, peintures et verres en petites et grandes surfaces",1750,78.75
+Activity,"NAF - SECTION G - DIVISION 47-5 - 4753Z - Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé",2031,91.40
+Activity,NAF - SECTION G - DIVISION 47-5 - 4754Z - Commerce de détail d'appareils électroménagers en magasin spécialisé,827,82.70
+Activity,NAF - SECTION G - DIVISION 47-5 - 4759A - Commerce de détail de meubles,2664,119.88
+Activity,NAF - SECTION G - DIVISION 47-5 - 4759B - Commerce de détail d'autres équipements du foyer,721,72.10
+Activity,NAF - SECTION G - DIVISION 47-6 - 4761Z - Commerce de détail de livres en magasin spécialisé,1836,82.62
+Activity,NAF - SECTION G - DIVISION 47-6 - 4762Z - Commerce de détail de journaux et papeterie en magasin spécialisé,1035,46.58
+Activity,NAF - SECTION G - DIVISION 47-6 - 4763Z - Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé,140,29.00
+Activity,NAF - SECTION G - DIVISION 47-6 - 4764Z - Commerce de détail d'articles de sport en magasin spécialisé,3730,167.85
+Activity,NAF - SECTION G - DIVISION 47-6 - 4765Z - Commerce de détail de jeux et jouets en magasin spécialisé.,817,81.70
+Activity,NAF - SECTION G - DIVISION 47-7 - 4771Z - Commerce de détail d'habillement en magasin spécialisé,5471,164.13
+Activity,NAF - SECTION G - DIVISION 47-7 - 4772A - Commerce de détail de la chaussure,1131,50.90
+Activity,NAF - SECTION G - DIVISION 47-7 - 4772B - Commerce de détail de maroquinerie et d'articles de voyage,466,55.92
+Activity,NAF - SECTION G - DIVISION 47-7 - 4773Z - Commerce de détail de produits pharmaceutiques en magasin spécialisé,5954,178.62
+Activity,NAF - SECTION G - DIVISION 47-7 - 4774Z - Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,781,78.10
+Activity,NAF - SECTION G - DIVISION 47-7 - 4775Z - Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé,516,51.60
+Activity,"NAF - SECTION G - DIVISION 47-7 - 4776Z - Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé",4705,211.73
+Activity,NAF - SECTION G - DIVISION 47-7 - 4777Z - Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé,2339,105.26
+Activity,NAF - SECTION G - DIVISION 47-7 - 4778A - Commerces de détail d'optique,5029,150.87
+Activity,NAF - SECTION G - DIVISION 47-7 - 4778B - Commerces de détail de charbons et combustibles,558,55.80
+Activity,NAF - SECTION G - DIVISION 47-7 - 4778C - Autres commerces de détail spécialisés divers,1548,69.66
+Activity,NAF - SECTION G - DIVISION 47-7 - 4779Z - Commerce de détail de biens d'occasion en magasin,1077,48.47
+Activity,NAF - SECTION G - DIVISION 47-8 - 4781Z - 4782Z - 4789Z - Commerce de détail sur éventaires et marchés,779,77.90
+Activity,"NAF - SECTION G - DIVISION 47-9 - 4791A - 4791B - 4799A - 4799B - Commerce de détail hors magasin, éventaires ou marchés - vente à distance, à docmicile, par automate",790,79.00
+Activity,NAF - SECTION H - DIVISION 49-1 - 4910Z - Transport ferroviaire interurbain de voyageurs,1,0
+Activity,NAF - SECTION H - DIVISION 49-2 - 4920Z - Transports ferroviaires de fret,4,0
+Activity,NAF - SECTION H - DIVISION 49-3 - 4931Z - Transports urbains et suburbains de voyageurs,215,29.00
+Activity,NAF - SECTION H - DIVISION 49-3 - 4932Z - Transports de voyageurs par taxis,5858,175.74
+Activity,NAF - SECTION H - DIVISION 49-3 - 4939A - 4939B -Transports routiers de voyageurs,1239,55.76
+Activity,NAF - SECTION H - DIVISION 49-3 - 4939C - Téléphériques et remontées mécaniques,27,0
+Activity,NAF - SECTION H - DIVISION 49-4 - 4941A - 4941B - Transports routiers de fret,2438,109.71
+Activity,NAF - SECTION H - DIVISION 49-4 - 4941C - Location de camions avec chauffeur,124,0
+Activity,NAF - SECTION H - DIVISION 49-4 - 4942Z - Services de déménagement,1393,62.69
+Activity,NAF - SECTION H - DIVISION 49-5 - 4950Z - Transports par conduites,5,0
+Activity,"NAF - SECTION H - DIVISION 50 - 5010Z - 5020Z - 5030Z - 5040Z - Transports par eau, maritimes et fluviaux",315,37.80
+Activity,NAF - SECTION H - DIVISION 51 - 5110Z - 5121Z - 5122Z - Transports aériens,265,31.80
+Activity,NAF - SECTION H - DIVISION 52 - 5210A - 5210B - Entreposage et stockage,577,57.70
+Activity,NAF - SECTION H - DIVISION 52 - 5221Z - 5222Z - 5223Z - 5224A - 5224B - 5229A - 5229B - Services auxiliaires des transports,1856,83.52
+Activity,NAF - SECTION H - DIVISION 52 - 5221Z - Services auxiliaires des transports terrestres,71,29.00
+Activity,NAF - SECTION H - DIVISION 53 - 5310Z - 5220Z - Activités de poste et de courrier,114,29.00
+Activity,NAF - SECTION I - DIVISION 55 - 5510Z - Hôtels et hébergement similaire,27196,543.92
+Activity,NAF - SECTION I - DIVISION 55 - 5520Z - Hébergement touristique et autre hébergement de courte durée,1038,46.71
+Activity,NAF - SECTION I - DIVISION 55 - 5530Z - Terrains de camping et parcs pour caravanes ou véhicules de loisirs,3869,174.11
+Activity,NAF - SECTION I - DIVISION 55 - 5590Z - Autres hébergements,17,0
+Activity,NAF - SECTION I - DIVISION 56 - 5610A - Restauration traditionnelle,29511,590.22
+Activity,NAF - SECTION I - DIVISION 56 - 5610B - Cafétérias et autres libres-services,55,0
+Activity,NAF - SECTION I - DIVISION 56 - 5610C - Restauration de type rapide,1203,54.14
+Activity,NAF - SECTION I - DIVISION 56 - 5621Z - Services des traiteurs,4278,192.51
+Activity,NAF - SECTION I - DIVISION 56 - 5629A - Restauration collective sous contrat,171,29.00
+Activity,NAF - SECTION I - DIVISION 56 - 5629B - Autres services de restauration n.c.a,38,29.00
+Activity,NAF - SECTION I - DIVISION 56 - 5630Z - Débits de boissons,3038,136.71
+Activity,NAF - SECTION J - DIVISION 58-1 - 5811Z - 5812Z - 5813Z - 5814Z - 5819Z - Édition de livres et périodiques et autres activités d'édition,2890,130.05
+Activity,NAF - SECTION J - DIVISION 58-2 - 5821Z - 5829A - 5829B - 5829C - Édition de logiciels,5186,155.58
+Activity,NAF - SECTION J - DIVISION 59-1 - 5911A - 5911B - 5911C - 5912Z - Production de films,1240,55.80
+Activity,"NAF - SECTION J - DIVISION 59-1 - 5913A - 5913B - Distribution, édition de films et vidéos",56,0
+Activity,NAF - SECTION J - DIVISION 59-1 - 5914Z - Projection de films cinématographiques,454,54.48
+Activity,NAF - SECTION J - DIVISION 59-2 - 5920Z - Enregistrement sonore et édition musicale,701,70.10
+Activity,NAF - SECTION J - DIVISION 60 - 6010Z - Édition et diffusion de programmes radio,904,90.40
+Activity,"NAF - SECTION J - DIVISION 60-2 - 6020A - 6020B - Programmation de télévision et télédiffusion, édition de chaînes généralistes et thématiques",453,54.36
+Activity,NAF - SECTION J - DIVISION 61 - 6110Z - 6120Z - 6130Z - 6190Z - Télécommunications,402,48.24
+Activity,"NAF - SECTION J - DIVISION 62 - 6201Z - 6202A - 6202B - 6203Z - 6209Z - Programmation, conseil et autres activités informatiques",8505,255.15
+Activity,NAF - SECTION J - DIVISION 62 - 6201Z - Programmation informatique,729,72.90
+Activity,NAF - SECTION J - DIVISION 62 - 6202A - Conseil en systèmes et logiciels informatiques,2434,109.53
+Activity,"NAF - SECTION J - DIVISION 63-1 - 6311Z - 6312Z - Traitement de données, hébergement et activités connexes, portails Internet",3665,164.93
+Activity,NAF - SECTION J - DIVISION 63-9 - 6391Z - 6399Z - Autres services d'information,184,29.00
+Activity,"NAF - SECTION K - 64-1 - 6411Z - 6419Z - Intermédiation monétaire, banque centrale",3929,176.81
+Activity,NAF - SECTION K - 64-2 - 6420Z - Activités des sociétés holding,2211,99.50
+Activity,NAF - SECTION K - 64-3 - 6430Z - Fonds de placement et entités financières similaires,484,58.08
+Activity,"NAF - SECTION K - 64-9 - 6491Z - 6492Z - 6499Z - Autres activités des services financiers, hors assurance et caisses de retraite",1111,50.00
+Activity,NAF - SECTION K - 65 - 6511Z - Assurance vie,105,0
+Activity,NAF - SECTION K - 65 - 6512Z - Autres assurances,124,0
+Activity,NAF - SECTION K - 65 - 6520Z - Réassurance,3,0
+Activity,NAF - SECTION K - 65 - 6530Z - Caisses de retraite,89,29.00
+Activity,"NAF - SECTION K - 66-1 - 6611Z - 6612Z - 6619A - 6619B - Activités auxiliaires de services financiers, hors assurance et caisses de retraite",389,46.68
+Activity,NAF - SECTION K - 66-2 - 6621Z - Évaluation des risques et dommages,208,0
+Activity,NAF - SECTION K - 66-2 - 6622Z - Activités des agents et courtiers d'assurances,11070,276.75
+Activity,NAF - SECTION K - 66-2 - 6629Z - Autres activités auxiliaires d'assurance et de caisses de retraite,709,70.90
+Activity,NAF - SECTION K - 66-3 - 6630Z - Gestion de fonds,284,34.08
+Activity,NAF - SECTION L - 68 - 6810Z - Activités des marchands de biens immobiliers,951,95.10
+Activity,NAF - SECTION L - 68-2 - 6820A - 6820B - Location et exploitation de biens immobiliers propres ou loués,20621,515.53
+Activity,NAF - SECTION L - 68-3 - 6831Z - Agences immobilières,23688,592.20
+Activity,NAF - SECTION L - 68-3 - 6832A - Administration d'immeubles et autres biens immobiliers,1022,45.99
+Activity,NAF - SECTION L - 68-3 - 6832B - Supports juridiques de gestion de patrimoine immobilier,714,71.40
+Activity,NAF - SECTION M - DIVISION 69 - 6910Z - Activités juridiques,12828,320.70
+Activity,NAF - SECTION M - DIVISION 69 - 6920Z - Activités comptables,8214,246.42
+Activity,NAF - SECTION M - DIVISION 70 - 7010Z - Activités des sièges sociaux,1569,70.61
+Activity,NAF - SECTION M - DIVISION 70 - 7021Z - Conseil en relations publiques et communication,484,58.08
+Activity,NAF - SECTION M - DIVISION 70 - 7022Z - Conseil pour les affaires et autres conseils de gestion,11903,297.58
+Activity,NAF - SECTION M - DIVISION 71 - 7111Z - Activités d'architecture,10178,254.45
+Activity,NAF - SECTION M - DIVISION 71 - 7112A - Activité des géomètres,1304,58.68
+Activity,"NAF - SECTION M - DIVISION 71 - 7112B - Ingénierie, études techniques",10345,258.63
+Activity,NAF - SECTION M - DIVISION 71 - 7120A - Contrôle technique automobile,1808,81.36
+Activity,"NAF - SECTION M - DIVISION 71 - 7120B - Analyses, essais et inspections techniques",4306,193.77
+Activity,NAF - SECTION M - DIVISION 72 - 7211Z - 7219Z - 7220Z - Recherche-développement scientifique,337,40.44
+Activity,NAF - SECTION M - DIVISION 73 - 7311Z - Activités des agences de publicité,5333,159.99
+Activity,NAF - SECTION M - DIVISION 73 - 7312Z - Régie publicitaire de médias,532,53.20
+Activity,NAF - SECTION M - DIVISION 73 - 7320Z - Études de marché et sondages,203,29.00
+Activity,NAF - SECTION M - DIVISION 74 - 7410Z - Activités spécialisées de design,1479,66.56
+Activity,NAF - SECTION M - DIVISION 74 - 7420Z - Activités photographiques,6655,199.65
+Activity,NAF - SECTION M - DIVISION 74 - 7430Z - Traduction et interprétation,2385,107.33
+Activity,NAF - SECTION M - DIVISION 74 - 7490A - Activité des économistes de la construction,577,57.70
+Activity,"NAF - SECTION M - DIVISION 74 - 7490B - Activités spécialisées, scientifiques et techniques diverses",420,50.40
+Activity,NAF - SECTION M - DIVISION 75 - 7500Z - Activités vétérinaires,2002,90.09
+Activity,NAF - SECTION N - DIVISION 77-1 - 7711A - 7711B - 7712Z - Location et location-bail de véhicules automobiles,3160,142.20
+Activity,NAF - SECTION N - DIVISION 77-2 - 7721Z - 7722Z - 7729Z - Location et location-bail de biens personnels et domestiques,545,54.50
+Activity,"NAF - SECTION N - DIVISION 77-3 - 7731Z - 7732Z - 7733Z - 7734Z - 7735Z - 7739Z - Location et location-bail d'autres machines, équipements et biens",2161,97.25
+Activity,"NAF - SECTION N - DIVISION 77-4 - 7740Z - Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",23,0
+Activity,NAF - SECTION N - DIVISION 78 - 7820Z - Activités des agences de travail temporaire,80,29.00
+Activity,NAF - SECTION N - DIVISION 78 - 7830Z - Autre mise à disposition de ressources humaines,4017,180.77
+Activity,NAF - SECTION N - DIVISION 79-1 - 7911Z - 7912Z - Activités des agences de voyage et voyagistes,2950,132.75
+Activity,NAF - SECTION N - DIVISION 79-2 - 7990Z - Autres services de réservation et activités connexes,107,29.00
+Activity,NAF - SECTION N - DIVISION 80 - 8010Z - Activités de sécurité privée,396,47.52
+Activity,NAF - SECTION N - DIVISION 80 - 8020Z - Activités liées aux systèmes de sécurité,78,29.00
+Activity,NAF - SECTION N - DIVISION 80 - 8030Z - Activités d'enquête,411,49.32
+Activity,NAF - SECTION N - DIVISION 81 - 8110Z - Activités combinées de soutien lié aux bâtiments,14,0
+Activity,NAF - SECTION N - DIVISION 81 - 8121Z - Nettoyage courant des bâtiments,6328,189.84
+Activity,NAF - SECTION N - DIVISION 81 - 8122Z - Autres activités de nettoyage des bâtiments et nettoyage industriel,302,36.24
+Activity,"NAF - SECTION N - DIVISION 81 - 8129A - Désinfection, désinsectisation, dératisation",960,96.00
+Activity,NAF - SECTION N - DIVISION 81 - 8129B - Autres activités de nettoyage n.c.a,74,29.00
+Activity,NAF - SECTION N - DIVISION 81 - 8130Z - Services d'aménagement paysager,10937,273.43
+Activity,NAF - SECTION N - DIVISION 82 - 8211Z - 8219Z - Activités administratives,2603,117.14
+Activity,NAF - SECTION N - DIVISION 82 - 8220Z - Activités de centres d'appels,179,29.00
+Activity,"NAF - SECTION N - DIVISION 82 - 8230Z - Organisation de foires, salons professionnels et congrès",1463,65.84
+Activity,NAF - SECTION N - DIVISION 82 - 8291Z - Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle,252,30.24
+Activity,NAF - SECTION N - DIVISION 82 - 8292Z - Activités de conditionnement,400,48.00
+Activity,NAF - SECTION N - DIVISION 82 - 8299Z - Autres activités de soutien aux entreprises n.c.a,1223,55.04
+Activity,"NAF - SECTION O - DIVISION 84 - 8411Z - 8412Z - 8413Z - 8421Z - 8422Z - 8423Z - 8424Z - 8425Z 8430A - 8430B - 9430C - Administration publique et défense, sécurité sociale obligatoire",209,29.00
+Activity,NAF - SECTION P - DIVISION 85 - 8510Z - Enseignement pré-primaire,583,58.30
+Activity,NAF - SECTION P - DIVISION 85 - 8520Z - Enseignement primaire,1132,50.94
+Activity,NAF - SECTION P - DIVISION 85-3 - 8531Z - 8532Z - Enseignement secondaire,3265,146.93
+Activity,NAF - SECTION P - DIVISION 85-4 - 8541Z - 8542Z - Enseignement supérieur et post-secondaire non supérieur,1367,61.52
+Activity,NAF - SECTION P - DIVISION 85-5 - 8551Z - Enseignement de disciplines sportives et d'activités de loisirs,633,63.30
+Activity,NAF - SECTION P - DIVISION 85-5 - 8552Z - Enseignement culturel,38,29.00
+Activity,NAF - SECTION P - DIVISION 85-5 - 8553Z - Enseignement de la conduite,3965,178.43
+Activity,NAF - SECTION P - DIVISION 85-5 - 8559A - Formation continue d'adultes,8880,266.40
+Activity,NAF - SECTION P - DIVISION 85-5 - 8559B - Autres enseignements,416,49.92
+Activity,NAF - SECTION P - DIVISION 85-6 - 8560Z - Activités de soutien à l'enseignement,9,29.00
+Activity,NAF - SECTION Q - DIVISION 86 - 8610Z - Activités hospitalières,3554,159.93
+Activity,NAF - SECTION Q - DIVISION 86 - 8621Z - Activité des médecins généralistes,2612,117.54
+Activity,NAF - SECTION Q - DIVISION 86 - 8622A - Activités de radiodiagnostic et de radiothérapie,296,35.52
+Activity,NAF - SECTION Q - DIVISION 86 - 8622B - Activités chirurgicales,517,51.70
+Activity,NAF - SECTION Q - DIVISION 86 - 8622C - Autres activités des médecins spécialistes,1715,77.18
+Activity,NAF - SECTION Q - DIVISION 86 - 8623Z - Pratique dentaire,3296,148.32
+Activity,NAF - SECTION Q - DIVISION 86 - 8690A - Ambulances,1491,67.10
+Activity,NAF - SECTION Q - DIVISION 86 - 8690B - Laboratoires d'analyses médicales,603,60.30
+Activity,NAF - SECTION Q - DIVISION 86 - 8690C - Centres de collecte et banques d'organes,2,0
+Activity,NAF - SECTION Q - DIVISION 86 - 8690D - Activités des infirmiers et des sages-femmes,8277,248.31
+Activity,"NAF - SECTION Q - DIVISION 86 - 8690E - Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues",1139,51.26
+Activity,NAF - SECTION Q - DIVISION 86 - 8690F - Activités de santé humaine non classées ailleurs,31,29.00
+Activity,NAF - SECTION Q - DIVISION 87 - 8710A - 8710B - 8710C - Hébergement médicalisé,357,0
+Activity,NAF - SECTION Q - DIVISION 87 - 8720A - 8720B - 8730A - 8730B - 8790A - 9790B - Hébergements sociaux,182,0
+Activity,NAF - SECTION Q - DIVISION 88 - 8810A - Aide à domicile,1744,78.48
+Activity,NAF - SECTION Q - DIVISION 88 - 8810B - Accueil ou accompagnement sans hébergement d'adultes handicapés ou de personnes âgées,4,0
+Activity,NAF - SECTION Q - DIVISION 88 - 8810C - Aide par le travail,65,0
+Activity,NAF - SECTION Q - DIVISION 88 - 8891A - Accueil de jeunes enfants,1163,52.34
+Activity,NAF - SECTION Q - DIVISION 88 - 8891B - Accueil ou accompagnement sans hébergement d'enfants handicapés,16,0
+Activity,NAF - SECTION Q - DIVISION 88 - 8899A - Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents,239,29.00
+Activity,NAF - SECTION Q - DIVISION 88 - 8899B - Action sociale sans hébergement n.c.a,23,29.00
+Activity,NAF - SECTION R - DIVISION 90 - 9001Z - Arts du spectacle vivant,353,42.36
+Activity,NAF - SECTION R - DIVISION 90 - 9002Z - Activités de soutien au spectacle vivant,450,54.00
+Activity,NAF - SECTION R - DIVISION 90 - 9003A - Création artistique relevant des arts plastiques,35,29.00
+Activity,NAF - SECTION R - DIVISION 90 - 9003B - Autre création artistique,34,29.00
+Activity,NAF - SECTION R - DIVISION 90 - 9004Z - Gestion de salles de spectacles,471,56.52
+Activity,NAF - SECTION R - DIVISION 91 - 9101Z - Gestion des bibliothèques et des archives,411,49.32
+Activity,NAF - SECTION R - DIVISION 91 - 9102Z - Gestion des musées,892,89.20
+Activity,NAF - SECTION R - DIVISION 91 - 9103Z - Gestion des sites et monuments historiques et des attractions touristiques similaires,49,0
+Activity,NAF - SECTION R - DIVISION 91 - 9104Z - Gestion des jardins botaniques et zoologiques et des réserves naturelles,146,29.00
+Activity,NAF - SECTION R - DIVISION 92 - 9200Z - Organisation de jeux de hasard et d'argent,62,0
+Activity,NAF - SECTION R - DIVISION 93 - 9311Z - Gestion d'installations sportives,707,70.70
+Activity,NAF - SECTION R - DIVISION 93 - 9312Z - Activités de clubs de sports,7224,216.72
+Activity,NAF - SECTION R - DIVISION 93 - 9313Z - Activités des centres de culture physique,1183,53.24
+Activity,NAF - SECTION R - DIVISION 93 - 9319Z - Autres activités liées au sport,64,29.00
+Activity,NAF - SECTION R - DIVISION 93 - 9321Z - Activités des parcs d'attractions et parcs à thèmes,1131,50.90
+Activity,NAF - SECTION R - DIVISION 93 - 9329Z - Autres activités récréatives et de loisirs,665,66.50
+Activity,NAF - SECTION S - DIVISION 94 - 9411Z - Activités des organisations patronales et consulaires,95,0
+Activity,NAF - SECTION S - DIVISION 94 - 9412Z - Activités des organisations professionnelles,86,0
+Activity,NAF - SECTION S - DIVISION 94 - 9420Z - Activités des syndicats de salariés,497,59.64
+Activity,NAF - SECTION S - DIVISION 94 - 9491Z - Activités des organisations religieuses,545,54.50
+Activity,NAF - SECTION S - DIVISION 94 - 9492Z - Activités des organisations politiques,115,29.00
+Activity,NAF - SECTION S - DIVISION 94 - 9499Z - Autres organisations fonctionnant par adhésion volontaire,13239,330.98
+Activity,NAF - SECTION S - DIVISION 95 - 9511Z - Réparation d'ordinateurs et d'équipements périphériques,401,48.12
+Activity,NAF - SECTION S - DIVISION 95 - 9512Z - Réparation d'équipements de communication,45,29.00
+Activity,NAF - SECTION S - DIVISION 95 - 9521Z - Réparation de produits électroniques grand public,420,50.40
+Activity,NAF - SECTION S - DIVISION 95 - 9522Z - Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin,167,29.00
+Activity,NAF - SECTION S - DIVISION 95 - 9523Z - Réparation de chaussures et d'articles en cuir,406,48.72
+Activity,NAF - SECTION S - DIVISION 95 - 9524Z - Réparation de meubles et d'équipements du foyer,75,29.00
+Activity,NAF - SECTION S - DIVISION 95 - 9525Z - Réparation d'articles d'horlogerie et de bijouterie,300,36.00
+Activity,NAF - SECTION S - DIVISION 95 - 9529Z - Réparation d'autres biens personnels et domestiques,184,29.00
+Activity,NAF - SECTION S - DIVISION 96 - 9601A - Blanchisserie-teinturerie de gros,63,0
+Activity,NAF - SECTION S - DIVISION 96 - 9601B - Blanchisserie-teinturerie de détail,776,77.60
+Activity,NAF - SECTION S - DIVISION 96 - 9602A - Coiffure,8536,256.08
+Activity,NAF - SECTION S - DIVISION 96 - 9602B - Soins de beauté,7432,222.96
+Activity,NAF - SECTION S - DIVISION 96 - 9603Z - Services funéraires,1126,50.67
+Activity,NAF - SECTION S - DIVISION 96 - 9604Z - Entretien corporel,163,29.00
+Activity,NAF - SECTION S - DIVISION 96 - 9609Z - Autres services personnels n.c.a,600,60.00
+Activity,Naturopathie,143,29.00
+Activity,Nettoyage,7379,221.37
+Activity,Notaires,8061,241.83
+Activity,"Offices de tourisme, syndicats d'initiative",926,92.60
+Activity,"Offices HLM (offices, gestion)",111,29.00
+Activity,Opticiens,5011,150.33
+Activity,"Organisation d'événements (exposition, foires, salons, congrès, mariages, traiteurs et réception, événementiel)",2888,129.96
+Activity,"Organisation de foires, salons, expositions et congrès",759,75.90
+Activity,Organisation de mariages,59,29.00
+Activity,Organisation de réceptions (Traiteurs),1382,62.19
+Activity,Organismes de développement économique,200,29.00
+Activity,Organismes de placement en valeurs mobilières,6,0
+Activity,Organismes de tourisme,250,30.00
+Activity,Orthodontistes,120,29.00
+Activity,Orthophonistes,1904,85.68
+Activity,Orthoptistes,356,42.72
+Activity,Ostéopathes,1599,71.96
+Activity,Papier (fabrication),216,29.00
+Activity,Parcs d'attractions et de loisirs,1151,51.80
+Activity,"Parfumerie, cosmétiques (fabrication, gros)",583,58.30
+Activity,Parfumeries (détail),404,48.48
+Activity,"Parfumeries (fabrication, gros)",969,96.90
+Activity,Paysagistes / Services d'aménagement paysager,10938,273.45
+Activity,Pédicure-podologue,358,42.96
+Activity,Peintre en bâtiment (Travaux de peinture),10324,258.10
+Activity,Peinture (détail),1380,62.10
+Activity,"Peinture (fabrication, gros)",288,34.56
+Activity,"Pensions pour chiens, chats",818,81.80
+Activity,Petits travaux de bricolage,1886,84.87
+Activity,Petits travaux de jardinage,571,57.10
+Activity,Pharmacies,5580,167.40
+Activity,"Pharmacies (répartition, gros)",650,65.00
+Activity,Pharmacies / Parapharmacies,5580,167.40
+Activity,"Photocopie, reprographie, impression numérique, préparation de documents",2276,102.42
+Activity,Photographes,5821,174.63
+Activity,Photographes de portraits,2956,133.02
+Activity,Photographes de reportage,2041,91.85
+Activity,Photographes industriels,160,29.00
+Activity,Photographes publicitaires,468,56.16
+Activity,Photographie aérienne,196,29.00
+Activity,Phytothérapie,2,29.00
+Activity,"Pianos (vente, location, réparation, accordage)",401,48.12
+Activity,Piscines (établissements),168,29.00
+Activity,"Piscinistes (Construction, entretien de piscines)",1938,87.21
+Activity,Pizzerias,160,29.00
+Activity,Plâtrerie,2544,114.48
+Activity,Plombiers,11270,281.75
+Activity,Podo-orthésistes,41,29.00
+Activity,"Poids lourds, camions (vente, réparation, location)",907,90.70
+Activity,Poissonneries (détail),209,29.00
+Activity,Poissonneries (gros),159,29.00
+Activity,Pompes funèbres / Services funéraires,1684,75.78
+Activity,Portes automatiques,434,52.08
+Activity,Portes de garage,353,42.36
+Activity,Portes et portails métalliques et aluminium (Fabrication),1373,61.79
+Activity,Portes industrielles,53,29.00
+Activity,"Portes, portails et fenêtres",3201,144.05
+Activity,Ports de plaisance,85,29.00
+Activity,Pose de carrelages et de dallages,2942,132.39
+Activity,Pose et entretien de canalisations,76,29.00
+Activity,Préparation industrielle de produits à base de viande,227,29.00
+Activity,Producteurs de spectacles,887,88.70
+Activity,"Producteurs, vente directe de vins",4321,194.45
+Activity,Production de combustibles gazeux,2,0
+Activity,"Production, distribution et commerce d'électricité",1025,46.13
+Activity,"Production, réalisation audiovisuelle",1735,78.08
+Activity,"Production, vente de foie gras",160,29.00
+Activity,Produits pharmaceutiques (gros),650,65.00
+Activity,Professions libérales,59148,887.22
+Activity,Promoteurs immobiliers,827,82.70
+Activity,Prothésistes dentaires,721,72.10
+Activity,Psychanalystes,904,90.40
+Activity,Psychiatres,210,29.00
+Activity,Psychologues,3366,151.47
+Activity,Psychomotriciens,740,74.00
+Activity,Psychothérapeutes,900,90.00
+Activity,Publicité sur le lieu de vente,99,29.00
+Activity,Publicité sur le lieu de vente / Publicité par l'objet,646,64.60
+Activity,Radiesthésistes,92,29.00
+Activity,Radiologues et Centres de radiologie,265,31.80
+Activity,Radios FM,852,85.20
+Activity,Ramonage,886,88.60
+Activity,Randonnées,276,33.12
+Activity,Randonnées pédestres,259,31.08
+Activity,Ravalement de façades,1861,83.75
+Activity,Réfection de matelas,21,29.00
+Activity,Réflexologie,43,29.00
+Activity,Régies publicitaires,531,53.10
+Activity,"Reliure, dorure artisanale",195,29.00
+Activity,Rénovation immobilière,2815,126.68
+Activity,Réparation d'équipements de communication,12,0
+Activity,Réparation d'ordinateurs et de biens personnels et domestiques,1113,50.09
+Activity,"Réparation et maintenance navale, réparation de bateaux",975,97.50
+Activity,Réparation téléphone portable,26,29.00
+Activity,Restaurants (Tous types de restauration hors collectif),24645,616.13
+Activity,Restaurants (Tous types de restauration),24780,619.50
+Activity,Restaurants (traditionnels),29397,587.94
+Activity,Restaurants - Pizzeria,172,29.00
+Activity,Restauration collective,150,29.00
+Activity,"Restauration d'antiquités, d'objets d'art",152,29.00
+Activity,Restauration d'objets divers,33,29.00
+Activity,Restauration rapide,1030,46.35
+Activity,Salles de cinéma,454,54.48
+Activity,"Salles de concerts, de spectacles",470,56.40
+Activity,Salon de coiffure (hors Coiffeurs à domicile),6323,189.69
+Activity,"Sapeurs-pompiers, centres de secours",51,29.00
+Activity,Sciage et rabotage du bois,371,44.52
+Activity,"Serrurerie, métallerie",406,48.72
+Activity,Service d'ingénierie,396,47.52
+Activity,Services à domicile,8540,256.20
+Activity,"Services à domicile pour personnes âgées, dépendantes, handicapées",1086,48.87
+Activity,Services à la personne,2942,132.39
+Activity,Services à la personne : à domicile (organismes agréés),886,88.60
+Activity,"Services à la personne, aides à domicile",1027,46.22
+Activity,Services de traitement des eaux,267,32.04
+Activity,Sex-shop,1,0
+Activity,Shiatsu,6,29.00
+Activity,Société de gestion de portefeuilles financiers et bancaires,167,29.00
+Activity,Sociétés de crédit,779,77.90
+Activity,Sociétés de recouvrement,252,30.24
+Activity,Soins de beauté,7421,222.63
+Activity,Sophrologues,3077,138.47
+Activity,Soutien au spectacle vivant,450,54.00
+Activity,"Soutien scolaire, cours particuliers",978,97.80
+Activity,Stockage et entreposage,532,53.20
+Activity,Stores,778,77.80
+Activity,Supérettes,10,0
+Activity,Supports juridiques de gestion de patrimoine,714,71.40
+Activity,Sylviculture et activités forestières,791,79.10
+Activity,"Syndics de copropriétés, administrateurs de biens",946,94.60
+Activity,Systèmes de contrôle d'accès,752,75.20
+Activity,Tailleurs : vêtements sur mesure,93,29.00
+Activity,Tapissiers-décorateurs,1479,66.56
+Activity,Tatouages et Piercing,836,83.60
+Activity,Tatoueurs,808,80.80
+Activity,Taxis,4787,215.42
+Activity,Télécommunications,1258,56.61
+Activity,"Télévisions (chaines, productions, studios)",687,68.70
+Activity,"Terrains, clubs de golf",218,29.00
+Activity,"Thalassothérapie, cures thermales",64,29.00
+Activity,Théâtres,220,29.00
+Activity,Toiletteurs (chiens et chats),1039,46.76
+Activity,Tonnelleries,65,29.00
+Activity,Torréfaction de café - Transformation du thé et du café,247,29.64
+Activity,Traitement de données,468,56.16
+Activity,Traiteurs,4271,192.20
+Activity,Transformation du thé et du café,247,29.64
+Activity,Transport scolaire,17,29.00
+Activity,Transports aériens,246,29.52
+Activity,"Transports express, coursiers",1542,69.39
+Activity,Transports maritimes et fluviaux,403,48.36
+Activity,Transports routiers (fret et marchandises),4514,203.13
+Activity,Transports routiers de voyageurs (sauf taxis),843,84.30
+Activity,Transports touristiques en autocar,811,81.10
+Activity,Transports urbains et régionaux de voyageurs,418,50.16
+Activity,Travaux d'enrobés,145,29.00
+Activity,Travaux d'installation d'équipements thermiques et de climatisation,3978,179.01
+Activity,Travaux d'isolation,1932,86.94
+Activity,Travaux de démolition,320,38.40
+Activity,Travaux de façonnage d'impression,41,29.00
+Activity,Travaux de maçonnerie générale et gros œuvre de bâtiment,5373,161.19
+Activity,Travaux de montage de structures métalliques,114,29.00
+Activity,Travaux publics,2621,117.95
+Activity,"Troupes, compagnies de théâtre, de ballet, de danse",371,44.52
+Activity,Urbanistes,183,29.00
+Activity,Vente à distance,344,41.28
+Activity,Vente de carrelages et de dallages (Détail),718,71.80
+Activity,Vente de vêtements de travail,167,29.00
+Activity,Vente en téléphonie (Téléphone portable),875,87.50
+Activity,"Vente, installation de cuisines",2243,100.94
+Activity,"Vente, location de remorques de tourisme et d'attelages",145,29.00
+Activity,"Vente, montage de pneus",430,51.60
+Activity,"Vente, réparation de vélos, de cycles",1026,46.17
+Activity,Verrerie d'art,99,29.00
+Activity,Vêtements (détail),4906,220.77
+Activity,"Vêtements (fabrication, gros)",1290,58.05
+Activity,Vétérinaires,2000,90.00
+Activity,Viandes (gros),300,36.00
+Activity,"Villages, clubs de vacances",242,29.04
+Activity,Vins et spiritueux,4981,224.15
+Activity,Viticulteurs,218,29.00
+Activity,Viticulture,199,29.00
+Activity,"Volets, persiennes (fabrication, vente et entretien)",349,41.88
+Activity,Voyance,1004,45.18
+Activity,"VTC, location d'automobiles avec chauffeur",1280,57.60
+Workforce,Etablissement non employeur,81383,1220.75
+Workforce,0 salarié,19549,488.73
+Workforce,1 ou 2 salariés,130085,1951.28
+Workforce,3 à 5 salariés,85940,1289.10
+Workforce,6 à 9 salariés,58877,883.16
+Workforce,10 à 19 salariés,50438,756.57
+Workforce,20 à 49 salariés,37030,740.60
+Workforce,50 à 99 salariés,15630,390.75
+Workforce,100 à 199 salariés,11139,278.48
+Workforce,200 à 249 salariés,3060,137.70
+Workforce,250 à 499 salariés,7328,219.84
+Workforce,500 à 999 salariés,5181,155.43
+Workforce,1 000 à 1 999 salariés,3502,157.59
+Workforce,2 000 à 4 999 salariés,4471,201.20
+Workforce,5 000 à 9 999 salariés,1063,47.84
+Workforce,10 000 salariés et plus,1433,64.49
+Categories,ETI,27734,554.68
+Categories,GE,17343,433.58
+Categories,PME,586909,8803.64
+Legal Form,Groupement d'intérêt économique (GIE),565,56.50
+Legal Form,Société à responsabilité limitée (SARL),264595,3968.93
+Legal Form,Société anonyme (SA),2703,121.64
+Legal Form,Société civile (SC),24421,610.53
+Legal Form,Société civile immobilière (SCI),10148,253.70
+Legal Form,Société civile professionnelle (SCP),1680,75.60
+Legal Form,Société d'exercice libéral (SEL),7262,217.86
+Legal Form,Société en commandite (SCS - SCA),192,29.00
+Legal Form,Société en nom collectif (SNC),2499,112.46
+Legal Form,Société en participation (SEP),213,29.00
+Legal Form,Société par actions simplifiée (SAS),130408,1956.12
+Nature of Business,AGRICOLE,12988,324.70
+Nature of Business,ARTISAN (ALIMENTATION),10657,266.43
+Nature of Business,ARTISAN (BÂTIMENT),93900,1408.50
+Nature of Business,ARTISAN (SERVICES),21883,547.08
+Nature of Business,AUTRE ENTREPRENEUR INDIVIDUEL,3208,144.36
+Nature of Business,COMMERÇANT (DÉTAIL),30408,608.16
+Nature of Business,COMMERÇANT (GROSSISTE),28481,569.62
+Nature of Business,MAIRIE,31027,620.54
+Nature of Business,PROFESSION LIBERALE,71362,1070.43
+Turnover,(1000000-500000),104175,1562.63
+Turnover,(500000-1000000) ,44316,886.32
+Turnover,(1000000-1500000) ,25642,512.84
+Turnover,(1500000-2000000) ,14907,372.68
+Turnover,(2000000-2500000) ,9807,294.21
+Turnover,(3000000-3500000) ,7001,210.03
+Turnover,(3000000-3500000) ,5302,159.06
+Turnover,(3500000-4000000) ,4275,192.38
+Turnover,(4000000-4500000) ,3664,164.88
+Turnover,(4500000-5000000) ,55412,831.18
+Year,(1887-1907),10944,273.6
+Year,(1907-1927),181,29.0
+Year,(1927-1947),418,50.16
+Year,(1947-1967),19851,496.28
+Year,(1967-1987),83572,1253.58
+Year,(1987-2007),308342,4625.13
+Year,(2007-2023),297591,4463.87
